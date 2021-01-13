@@ -1,5 +1,7 @@
 # random_compliment_generator
 
+Simple API that will generate a random compliment for you and your loved ones.
+
 ## Setup 
 ### Install environment
 execute the following to set up environment
@@ -13,7 +15,7 @@ execute the following to run app
 
     $ export FLASK_APP=flaskr
     $ flask run
-# Endpoints
+## Endpoints
 
 ```GET``` '/compliment/{int:length}'
    
